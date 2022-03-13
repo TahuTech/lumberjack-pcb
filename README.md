@@ -5,9 +5,9 @@ Lumberjack is a split 5x12 ortholinear keyboard PCB using through-hole component
 
 Original Repo by the [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard).
 
-![PCB render front](images/pcb-front.jpg)
+![PCB render front](images/pcb-front.png)
 
-![PCB render back](images/pcb-back.jpg)
+![PCB render back](images/pcb-back.png)
 
 # Ordering parts
 
