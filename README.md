@@ -37,6 +37,6 @@ See [the build guide](guide.md) for more information.
 
 # Revisions
 
-## Rev 1.6 cherry
+## Rev 1.6 Mod Cherry
 
 - change to hotswap switch universal ( cherry only )
