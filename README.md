@@ -35,18 +35,6 @@ Ensure that polarised components (diodes, LEDs, electrolytic capacitor (C3), IC 
 
 See [the build guide](guide.md) for more information.
 
-# Firmware
-
-Firmware is available in the QMK repository under the name `peej/lumberjack`.
-
-Follow the [QMK firmware instructions](https://beta.docs.qmk.fm/using-qmk/guides/flashing/flashing) to build and flash the firmware.
-
-To put the board into bootloader mode so it is ready to recieve firmware, press and hold the BOOT button (SW2) while pressing and releasing the RESET button (SW1). The board will now be detected as an USBasp device and can have the firmware flashed via the USB port.
-
-Pressing the RESET button (SW1) on its own will restart the microprocessor. Once flashed with firmware it is neccessary to reset the keyboard so as to return control to the new firmware.
-
-Note that due to the BOOT button (SW2) sharing a pin with column 3, when pressed the keys in that column will also activate. This is expected behavour but can be a little annoying or confusing if you are not expecting it.
-
 # Revisions
 
 ## Rev 1.6 cherry
