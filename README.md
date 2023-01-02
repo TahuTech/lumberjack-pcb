@@ -3,7 +3,7 @@
 this modified lumberjack pcb to hotswap switch (only support cherry switch)
 Lumberjack is a split 5x12 ortholinear keyboard PCB using through-hole components only.
 
-Original Repo by the [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard).
+Original Repo by peej [Lumberjack keyboard](https://github.com/peej/lumberjack-keyboard).
 
 ![PCB render front](images/pcb-front.png)
 
@@ -19,11 +19,10 @@ PCBs can be manufactuered by a variety of online PCB fabricators
 
 The gerber file is ready to produce
 
-[lumberjack.zip](https://github.com/peej/lumberjack-keyboard/blob/master/gerber/lumberjack.zip) PCB.
+[lumberjack.zip](https://github.com/TahuTech/lumberjack-pcb/tree/main/gerbers) PCB.
 
-When uploading the gerber zip files, use the default PCB settings.
+chosen the version what you need to print
 
-![PCB](images/pcb.jpg)
 
 
 # Revisions
@@ -31,3 +30,11 @@ When uploading the gerber zip files, use the default PCB settings.
 ## Rev 1.6 Mod Cherry
 
 - change to hotswap switch universal ( cherry only )
+- support by jaykeebs
+
+
+## Rev 1.7 Mod Cherry
+
+- change to hotswap switch universal ( cherry only )
+- routing now is rounded
+
