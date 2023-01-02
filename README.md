@@ -38,3 +38,7 @@ chosen the version what you need to print
 - change to hotswap switch universal ( cherry only )
 - routing now is rounded
 
+
+## Next Revision
+
+- maybe add design case
